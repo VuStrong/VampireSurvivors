@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7402737351150709334
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1930825620067953617}
+  - component: {fileID: 5043774457484379438}
+  m_Layer: 0
+  m_Name: SKILL1013
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1930825620067953617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7402737351150709334}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5043774457484379438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7402737351150709334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c53726beea06290439d047780be6b337, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: SKILL1013
+  image: {fileID: 906671935, guid: 99f10abcf979e904b883da0c6922d74f, type: 3}
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5698365648338944
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5698452051001344
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedUpgradeDescriptions:
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5699591551123456
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634134771236991
+    - name: 1
+      variable:
+        rid: 6381634134771236992
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5699660144771072
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634134771236993
+    - name: 1
+      variable:
+        rid: 6381634134771236994
+  requiredSkills: []
+  swordCount:
+    value: 1
+    upgrades: 0000000001000000
+    operation: 0
+  area:
+    value: 1
+    upgrades:
+    - 0
+    - 20
+    type: 0
+    operation: 0
+  damage:
+    value: 10
+    upgrades:
+    - 30
+    - 0
+    type: 0
+    operation: 0
+  speed:
+    value: 120
+    upgrades:
+    - 30
+    - 0
+    type: 0
+    operation: 0
+  cooldownWhenMoving:
+    value: 2
+    upgrades: []
+    type: 0
+    operation: 0
+  knockback: 200
+  swordPrefab: {fileID: 310723157472063672, guid: 7d179fc733461364ca437b57f5c6c24a, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381634134771236991
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30
+    - rid: 6381634134771236992
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30
+    - rid: 6381634134771236993
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 6381634134771236994
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 20

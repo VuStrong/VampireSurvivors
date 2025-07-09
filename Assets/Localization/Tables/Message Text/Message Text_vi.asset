@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Message Text_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 7e2a655329f6d0b4ea6278720568b235, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12843286528
+    m_Localized: "\u0110\xE3 sao ch\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172428165120
+    m_Localized: "Kh\xF4ng \u0111\u1EE7 xu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175703916544
+    m_Localized: "T\xEAn ng\u01B0\u1EDDi d\xF9ng kh\xF4ng \u0111\u01B0\u1EE3c ch\u1EE9a
+      b\u1EA5t k\u1EF3 kho\u1EA3ng tr\u1EAFng n\xE0o v\xE0 ph\u1EA3i c\xF3 \u0111\u1ED9
+      d\xE0i t\u1ED1i \u0111a l\xE0 50 k\xFD t\u1EF1\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

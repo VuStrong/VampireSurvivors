@@ -1,0 +1,36 @@
+***************
+*** Skill Note:
+***************
+  - Skill1000: Health - Increase X% max health.
+  - Skill1001: Regen - Recovery X health per second.
+  - Skill1002: Speed - Move X% faster
+  - Skill1003: Armor - Reduce X damage taken
+  - Skill1004: Damage - Increase X% skill damage
+  - Skill1005: Projectile - Projectile +X
+  - Skill1006: Projectile Speed - Increase projectile speed by X%
+  - Skill1007: Cooldown - Reduce X% skill cooldown
+  - Skill1008: Area - Increase area of skills by X%
+  - Skill1009: Duration - Increase skill effect duration by X second
+  - Skill1010: Pickup Range - Increase pickup radius by X%
+  - Skill1011: Experience - Increase experience received by X%
+  - Skill1012: Greed - Increase coin received by X%
+
+  - Skill1013: Swords - Idle: X swords rotate around player
+  - Skill1014: Thunder - Idle: Thunder strike to random spot deal area damage
+  - Skill1015: Grenade - Idle: Throw X grenades to random spot deal area damage in X seconds --- Moving: Throw X grenades to nearest enemies deal area damage
+  - Skill1016: Ice Rock - Idle: X Ice rock drop from sky to random spot deal area damage and create slow area in X seconds --- Moving: Fire X ice rock to nearest enemies deal area damage and slow enemies
+  - Skill1017: Area Damage - Idle: Create area floating around map deal damage --- Moving: Area stick at player position
+  - Skill1018: Shield - Idle: Generate shield absorb damage taken, regen when not take damage in X seconds --- Moving: Shield deal damage when take damage
+  - Skill1019: Orb - Idle: X orb fly circle around player shot 1 projectile forward --- Moving: X orb froze and shot nearest enemy
+  - Skill1020: Drill - Idle: Draw circle and deal damage inside when finish drawing --- Moving: Leave a line behind deal damage to enemies walk in
+  - Skill1022: Scythe - Idle: Scythe attack on player sides, max 2 --- Moving: Throw scythe up and fall down on screen
+  - Skill1023: SawBlade - Idle: X SawBlades move around deal damage, bounces back when hits the edge of screen --- Moving: SawBlade move to nearest enemy and return to player
+  - Skill1024: LaserBeam - Idle: Cast lasers rotate around player --- Moving: Cast lasers to nearest enemy and go accross the screen
+  - Skill1025: SummonRat - Idle: X rats return to player and store the quantity, deal damage to enemies it go through --- Moving: Stored rats go to the enemy and explode deal area damage
+  - Skill1026: Slash - Idle: Slash clockwise around player --- Moving: Slash in player look direction
+  - Skill1027: Bat - Idle: X bats auto attack anemies --- Moving: Bat prioritizes attacking enemies in front of player
+  - Skill1028: ProjectileAround - Idle: Projectiles circle around player deal damage --- Moving: Projectiles shot from character in circle repeatedly
+  - Skill1029: BouncingBullet - Idle: X bullets bouncing continuously between enemies, small damage, slow speed --- Moving: bullets bouncing between certain enemies and return to player. More damage, speed.
+  - Skill1030: BreathFire - Idle: Peachone VS but it is fire dragon
+  - Skill1031: BreathIce - Idle: EbonyWings VS but it is ice dragon and have slow
+  

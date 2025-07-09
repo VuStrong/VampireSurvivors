@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fe1d028c8ec0d5479b75a905e1f277f, type: 3}
+  m_Name: CHARACTER2
+  m_EditorClassIdentifier: 
+  id: CHARACTER2
+  characterName: Character 2
+  effectDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa2ce4439c46d0248a1b504d430038f8
+    m_TableEntryReference:
+      m_KeyId: 630165143552
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  sprite: {fileID: 7054998175782590189, guid: 01d988dc08ce748e983e648b8ac1d653, type: 3}
+  rarity: 1
+  health: 80
+  recoveryPerSecond: 0
+  speed: 20
+  armor: 0
+  skillDamageBonus: 0
+  experienceBonus: 0
+  cooldownReduce: 0
+  projectileCountBonus: 0
+  projectileSpeedBonus: 0
+  skillAreaBonus: 0
+  pickupRange: 0.8
+  skillDurationBonus: 0
+  greed: 0
+  critChance: 10
+  critDamage: 150
+  startingSkill: {fileID: 9106743998586356786, guid: da4326537585dd74ab6d1f7bd77604a6, type: 3}
+  references:
+    version: 2
+    RefIds: []

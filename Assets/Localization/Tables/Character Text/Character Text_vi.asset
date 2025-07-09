@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Character Text_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: fa2ce4439c46d0248a1b504d430038f8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 113456250880
+    m_Localized: "C\u1ED9ng th\xEAm 1 projectile khi b\u1EAFt \u0111\u1EA7u tr\u1EADn
+      \u0111\u1EA5u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630165143552
+    m_Localized: "Gi\u1EA3m 45% th\u1EDDi gian h\u1ED3i k\u1EF9 n\u0103ng khi m\xE1u
+      gi\u1EA3m xu\u1ED1ng d\u01B0\u1EDBi 40% l\u1EA7n \u0111\u1EA7u ti\xEAn\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16148225916928
+    m_Localized: "Ph\u1ED5 bi\u1EBFn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16233802301440
+    m_Localized: "Hi\u1EBFm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16237023526912
+    m_Localized: "Truy\u1EC1n thuy\u1EBFt"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,627 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skill Text_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 2763374612d827a4d9165f84772dd5e8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 6381633823986679968
+  m_TableData:
+  - m_Id: 5799556411621376
+    m_Localized: "Gi\u1EA3m {0}% h\u1ED3i chi\xEAu v\xE0 t\u0103ng {1}% ph\u1EA1m
+      vi g\xE2y s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5799552938737664
+    m_Localized: "T\u0103ng th\xEAm {0} s\u1EA5m s\xE9t v\xE0 {1}% s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5699660144771072
+    m_Localized: "T\u0103ng th\xEAm {0} s\u1ED1 ki\u1EBFm v\xE0 {1}% k\xEDch c\u1EE1"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5699591551123456
+    m_Localized: "T\u0103ng {0}% s\xE1t th\u01B0\u01A1ng v\xE0 {1}% t\u1ED1c \u0111\u1ED9
+      ki\u1EBFm"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5698452051001344
+    m_Localized: "Xoay c\xE1c thanh ki\u1EBFm quanh player khi \u0111\u1EE9ng y\xEAn.
+      \u0110\xE2m ch\xFAng tr\u01B0\u1EDBc m\u1EB7t khi di chuy\u1EC3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5698365648338944
+    m_Localized: "Ki\u1EBFm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5799100335587328
+    m_Localized: "Khi \u0111\u1EE9ng y\xEAn, s\u1EA5m s\xE9t \u0111\xE1nh v\xE0o
+      m\u1ED9t \u0111i\u1EC3m ng\u1EABu nhi\xEAn g\xE2y s\xE1t th\u01B0\u01A1ng di\u1EC7n
+      r\u1ED9ng. Khi di chuy\u1EC3n, s\u1EA5m s\xE9t \u0111\xE1nh v\xE0o v\u1ECB
+      tr\xED c\u1EE7a ng\u01B0\u1EDDi ch\u01A1i\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5799097831587840
+    m_Localized: "S\u1EA5m s\xE9t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5492157951836160
+    m_Localized: "M\xE1u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5492535229480960
+    m_Localized: "T\u0103ng {0}% m\xE1u t\u1ED1i \u0111a"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5499531307581440
+    m_Localized: "H\u1ED3i ph\u1EE5c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5499633208197120
+    m_Localized: "H\u1ED3i ph\u1EE5c th\xEAm {0} m\xE1u m\u1ED7i gi\xE2y"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5506973085007872
+    m_Localized: "T\u1ED1c \u0111\u1ED9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5507014914801664
+    m_Localized: "T\u1ED1c \u0111\u1ED9 di chuy\u1EC3n t\u0103ng th\xEAm {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5509254933184512
+    m_Localized: "Gi\xE1p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5509260092178432
+    m_Localized: "Gi\u1EA3m {0} s\xE1t th\u01B0\u01A1ng nh\u1EADn v\xE0o"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5511921923325952
+    m_Localized: "S\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5511929326272512
+    m_Localized: "T\u0103ng {0}% s\xE1t th\u01B0\u01A1ng k\u0129 n\u0103ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5513935143108608
+    m_Localized: Projectile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5513937823268864
+    m_Localized: "+{0} projectile t\u1EEB k\u0129 n\u0103ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5516027723317248
+    m_Localized: "T\u1ED1c \u0111\u1ED9 \u0111\u1EA1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5516030600609792
+    m_Localized: "T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n t\u1EEB k\u0129 n\u0103ng
+      th\xEAm {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5519002319519744
+    m_Localized: "H\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5519004890628096
+    m_Localized: "Gi\u1EA3m {0}% th\u1EDDi gian h\u1ED3i k\u0129 n\u0103ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5521171286392832
+    m_Localized: "Di\u1EC7n t\xEDch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5521173802975232
+    m_Localized: "T\u0103ng di\u1EC7n t\xEDch c\u1EE7a k\u0129 n\u0103ng th\xEAm
+      {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5523511099850752
+    m_Localized: "Th\u1EDDi h\u1EA1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5523513016647680
+    m_Localized: "T\u0103ng th\u1EDDi gian k\xEDch ho\u1EA1t c\u1EE7a k\u0129 n\u0103ng
+      th\xEAm {0} gi\xE2y"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5526316892094464
+    m_Localized: "B\xE1n k\xEDnh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5526319459008512
+    m_Localized: "T\u0103ng b\xE1n k\xEDnh nh\u1EB7t \u0111\u1ED3 th\xEAm {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5529109627469824
+    m_Localized: "T\u0103ng kinh nghi\u1EC7m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5529111447797760
+    m_Localized: "T\u0103ng kinh nghi\u1EC7m nh\u1EADn \u0111\u01B0\u1EE3c th\xEAm
+      {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5531301709152256
+    m_Localized: Tham lam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531303458177024
+    m_Localized: "T\u0103ng v\xE0ng nh\u1EADn \u0111\u01B0\u1EE3c th\xEAm {0}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5851337812410368
+    m_Localized: "L\u1EF1u \u0111\u1EA1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851339569823744
+    m_Localized: "Khi \u0111\u1EE9ng y\xEAn, n\xE9m l\u1EF1u \u0111\u1EA1n ra v\u1ECB
+      tr\xED ng\u1EABu nhi\xEAn, t\u1EA1o 1 v\xF9ng g\xE2y s\xE1t th\u01B0\u01A1ng
+      m\u1ED7i gi\xE2y. Khi di chuy\u1EC3n, n\xE9m l\u1EF1u \u0111\u1EA1n v\u1EC1
+      ph\xEDa tr\u01B0\u1EDBc, g\xE2y s\xE1t th\u01B0\u01A1ng theo v\xF9ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5852210085036032
+    m_Localized: "+{0} l\u1EF1u \u0111\u1EA1n. +{1}% s\xE1t th\u01B0\u01A1ng, +{2}
+      th\u1EDDi gian g\xE2y s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 5852244746764288
+    m_Localized: "-{0}% h\u1ED3i chi\xEAu, +{1}% v\xF9ng g\xE2y s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 6064665994264576
+    m_Localized: "\u0110\xE1 b\u0103ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6064669202907136
+    m_Localized: "Khi \u0111\u1EE9ng y\xEAn, t\u1EA1o ra c\xE1c thi\xEAn th\u1EA1ch
+      b\u0103ng r\u01A1i xu\u1ED1ng v\u1ECB tri ng\u1EABu nhi\xEAn g\xE2y s\xE1t
+      th\u01B0\u01A1ng v\xE0 t\u1EA1o v\xF9ng l\xE0m ch\u1EADm k\u1EBB \u0111\u1ECBch.
+      Khi di chuy\u1EC3n, n\xE9m c\xE1c vi\xEAn \u0111\u1EA1n b\u0103ng v\u1EC1 ph\xEDa
+      tr\u01B0\u1EDBc, g\xE2y s\xE1t th\u01B0\u01A1ng theo v\xF9ng v\xE0 l\xE0m ch\u1EADm
+      ch\xFAng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6065414929186816
+    m_Localized: "+{0} b\u0103ng. +{1}% s\xE1t th\u01B0\u01A1ng, +{2} th\u1EDDi gian"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 6065488853794816
+    m_Localized: "-{0}% h\u1ED3i chi\xEAu, +{1}% v\xF9ng g\xE2y s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 6159284090241024
+    m_Localized: "Nh\xE1i Garlic"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159285742796800
+    m_Localized: "T\u1EA1o 1 v\xF9ng g\xE2y s\xE1t th\u01B0\u01A1ng, \u0111i quanh
+      map khi player \u0111\u1EE9ng y\xEAn v\xE0 \u0111i theo player khi di chuy\u1EC3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159841332887552
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1}% b\xE1n k\xEDnh"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 6159867404681216
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1}% b\xE1n k\xEDnh"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 6175924265746432
+    m_Localized: "Ch\u1EC9 l\xE0 c\xE1i khi\xEAn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6175926073491456
+    m_Localized: "T\u1EA1o khi\xEAn h\u1EA5p th\u1EE5 s\xE1t th\u01B0\u01A1ng nh\u1EADn
+      v\xE0o, h\u1ED3i ph\u1EE5c khi kh\xF4ng nh\u1EADn s\xE1t th\u01B0\u01A1ng trong
+      5 gi\xE2y. N\u1EBFu ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, khi\xEAn s\u1EBD
+      g\xE2y s\xE1t th\u01B0\u01A1ng cho k\u1EBB \u0111\u1ECBch\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176659816644608
+    m_Localized: "-{0} gi\xE2y h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 6176662295478272
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 11891892526841856
+    m_Localized: Orb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891896842780672
+    m_Localized: "Qu\u1EA3 c\u1EA7u xoay quanh \u0111\u1EA1n b\u1EAFn v\u1EC1 ph\xEDa
+      tr\u01B0\u1EDBc. Khi di chuy\u1EC3n, qu\u1EA3 c\u1EA7u \u0111\xF3ng b\u0103ng
+      v\xE0 b\u1EAFn k\u1EBB th\xF9 g\u1EA7n nh\u1EA5t\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11892449920483328
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} orb"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 11892452877467648
+    m_Localized: "+{0} orb, +{1}% t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 11925145786843136
+    m_Localized: Drill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11925151755337728
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1}% t\u1ED1c \u0111\u1ED9"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 11925148848685056
+    m_Localized: "V\u1EBD v\xF2ng tr\xF2n v\xE0 g\xE2y s\xE1t th\u01B0\u01A1ng b\xEAn
+      trong khi ho\xE0n th\xE0nh vi\u1EC7c v\u1EBD. Khi di chuy\u1EC3n, \u0111\u1EC3
+      l\u1EA1i m\u1ED9t \u0111\u01B0\u1EDDng th\u1EB3ng g\xE2y s\xE1t th\u01B0\u01A1ng
+      cho k\u1EBB \u0111\u1ECBch \u0111i v\xE0o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11925619919355904
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1}% t\u1ED1c \u0111\u1ED9"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 12697292130025472
+    m_Localized: "Golem ngu \u0111\u1EA7n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12697293472202752
+    m_Localized: "Tri\u1EC7u h\u1ED3i golem c\xF3 kh\u1EA3 n\u0103ng khi\xEAu kh\xEDch
+      v\xE0 g\xE2y s\xE1t th\u01B0\u01A1ng di\u1EC7n r\u1ED9ng. Khi ng\u01B0\u1EDDi
+      ch\u01A1i di chuy\u1EC3n, Golem s\u1EBD bi\u1EBFn th\xE0nh \u0111\xE1, ch\u1EB7n
+      \u0111\u1EA1n v\xE0 t\u1EA1o v\xF9ng h\u1ED3i m\xE1u.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12698264587796480
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, -{1}% h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 12698266286489600
+    m_Localized: "+{0}% damage, +{1}% di\u1EC7n t\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 12721121325809664
+    m_Localized: "L\u01B0\u1EE1i h\xE1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721122030452736
+    m_Localized: "L\u01B0\u1EE1i h\xE1i t\u1EA5n c\xF4ng \u1EDF 2 ph\xEDa ng\u01B0\u1EDDi
+      ch\u01A1i, Khi ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, n\xE9m l\u01B0\u1EE1i
+      h\xE1i l\xEAn v\xE0 r\u01A1i xu\u1ED1ng m\xE0n h\xECnh\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721671513636864
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} l\u01B0\u1EE1i h\xE1i"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 12721674063773696
+    m_Localized: "+{0}% k\xEDch c\u1EE1, -{1}% h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 12981237744730112
+    m_Localized: "L\u01B0\u1EE1i c\u01B0a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12981238428401664
+    m_Localized: "L\u01B0\u1EE1i c\u01B0a di chuy\u1EC3n xung quanh g\xE2y s\xE1t
+      th\u01B0\u01A1ng, n\u1EA3y tr\u1EDF l\u1EA1i khi ch\u1EA1m v\xE0o m\xE9p m\xE0n
+      h\xECnh. Khi ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, l\u01B0\u1EE1i c\u01B0a
+      di chuy\u1EC3n \u0111\u1EBFn k\u1EBB th\xF9 g\u1EA7n nh\u1EA5t v\xE0 quay tr\u1EDF
+      l\u1EA1i ng\u01B0\u1EDDi ch\u01A1i\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12982118233997312
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} l\u01B0\u1EE1i c\u01B0a"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 12982119890747392
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1}% k\xEDch c\u1EE1"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 13059435270569984
+    m_Localized: Laze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13059436105236480
+    m_Localized: "Ph\xF3ng tia laser xoay quanh ng\u01B0\u1EDDi ch\u01A1i. Khi ng\u01B0\u1EDDi
+      ch\u01A1i di chuy\u1EC3n, ph\xF3ng tia laser v\xE0o k\u1EBB th\xF9 g\u1EA7n
+      nh\u1EA5t v\xE0 \u0111i qua m\xE0n h\xECnh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13088473980665856
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} tia laze"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 13088476534996992
+    m_Localized: "-{0}% h\u1ED3i chi\xEAu, +{1} th\u1EDDi gian xoay"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 14197989774262272
+    m_Localized: "Chu\u1ED9t ngu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14197990424379392
+    m_Localized: "\rTri\u1EC7u h\u1ED3i chu\u1ED9t quay l\u1EA1i v\u1EDBi ng\u01B0\u1EDDi
+      ch\u01A1i v\xE0 l\u01B0u tr\u1EEF s\u1ED1 l\u01B0\u1EE3ng, g\xE2y s\xE1t th\u01B0\u01A1ng
+      cho k\u1EBB \u0111\u1ECBch m\xE0 n\xF3 \u0111i qua. Khi ng\u01B0\u1EDDi ch\u01A1i
+      di chuy\u1EC3n, chu\u1ED9t \u0111\u01B0\u1EE3c l\u01B0u tr\u1EEF s\u1EBD bay
+      \u0111\u1EBFn k\u1EBB \u0111\u1ECBch v\xE0 ph\xE1t n\u1ED5 g\xE2y s\xE1t th\u01B0\u01A1ng
+      di\u1EC7n r\u1ED9ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14198504583135232
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1}% k\xEDch c\u1EE1 v\u1EE5 n\u1ED5"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 14198505195503616
+    m_Localized: "+{0} chu\u1ED9t, -{1}% h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 14449081141493760
+    m_Localized: Slash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14449081787416576
+    m_Localized: "Ch\xE9m theo chi\u1EC1u kim \u0111\u1ED3ng h\u1ED3 xung quanh ng\u01B0\u1EDDi
+      ch\u01A1i. Khi ng\u01B0\u1EDDi ch\u01A1i \u0111ang di chuy\u1EC3n, Ch\xE9m
+      theo h\u01B0\u1EDBng nh\xECn c\u1EE7a ng\u01B0\u1EDDi ch\u01A1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14449333483405312
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} \u0111\u01B0\u1EDDng ch\xE9m"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 14449334078996480
+    m_Localized: "+{0}% k\xEDch c\u1EE1, +{1} \u0111\u01B0\u1EDDng ch\xE9m"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 15187411156140032
+    m_Localized: "D\u01A1i \u0111en"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15187413307817984
+    m_Localized: "Tri\u1EC7u h\u1ED3i d\u01A1i t\u1EF1 \u0111\u1ED9ng t\u1EA5n c\xF4ng
+      k\u1EBB th\xF9. Khi ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, d\u01A1i \u01B0u
+      ti\xEAn t\u1EA5n c\xF4ng k\u1EBB th\xF9 \u1EDF ph\xEDa tr\u01B0\u1EDBc ng\u01B0\u1EDDi
+      ch\u01A1i\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15188014083145728
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} d\u01A1i"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 15188014691319808
+    m_Localized: "+{0} th\u1EDDi gian, -{1}% h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 15299119942008832
+    m_Localized: Projectile Circle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299121498095616
+    m_Localized: "\u0110\u1EA1n bay v\xF2ng quanh ng\u01B0\u1EDDi ch\u01A1i g\xE2y
+      s\xE1t th\u01B0\u01A1ng. Khi ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, \u0111\u1EA1n
+      bay ra kh\u1ECFi nh\xE2n v\u1EADt theo v\xF2ng tr\xF2n li\xEAn t\u1EE5c\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299575204347904
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} vi\xEAn \u0111\u1EA1n"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 15299576760434688
+    m_Localized: "+{0}% t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n, +{1} vi\xEAn \u0111\u1EA1n"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 15598693508251648
+    m_Localized: "\u0110\u1EA1n n\u1EA3y ph\u1EBFt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15598694057705472
+    m_Localized: "\u0110\u1EA1n n\u1EA3y li\xEAn t\u1EE5c gi\u1EEFa k\u1EBB \u0111\u1ECBch,
+      s\xE1t th\u01B0\u01A1ng nh\u1ECF, t\u1ED1c \u0111\u1ED9 ch\u1EADm. Khi ng\u01B0\u1EDDi
+      ch\u01A1i di chuy\u1EC3n, \u0111\u1EA1n n\u1EA3y gi\u1EEFa nh\u1EEFng k\u1EBB
+      th\xF9 nh\u1EA5t \u0111\u1ECBnh v\xE0 quay tr\u1EDF l\u1EA1i ng\u01B0\u1EDDi
+      ch\u01A1i. Th\xEAm s\xE1t th\u01B0\u01A1ng, t\u1ED1c \u0111\u1ED9.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15599231608094720
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} \u0111\u1EA1n"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 15599232216268800
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} \u0111\u1EA1n"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 16188479210061824
+    m_Localized: "H\u01A1i th\u1EDF c\u1EE7a l\u1EEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16188480761954304
+    m_Localized: "R\u1ED3ng l\u1EEDa bay sang m\u1ED9t b\xEAn v\xE0 b\u1EAFn v\xE0o
+      v\xF9ng tr\xF2n theo chi\u1EC1u kim \u0111\u1ED3ng h\u1ED3 xung quanh ng\u01B0\u1EDDi
+      ch\u01A1i. Khi ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, n\xF3 s\u1EBD b\u1EAFn
+      v\xE0o k\u1EBB th\xF9 g\u1EA7n nh\u1EA5t\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16189551521628160
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} projectiles, -{2}% h\u1ED3i
+      chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 16189553031577600
+    m_Localized: "+{0} th\u1EDDi gian, +{1} projectiles, -{2}% h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 16224394779361280
+    m_Localized: "H\u01A1i th\u1EDF c\u1EE7a b\u0103ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16224397249806336
+    m_Localized: "R\u1ED3ng b\u0103ng bay sang m\u1ED9t b\xEAn v\xE0 b\u1EAFn v\xE0o
+      v\xF9ng v\xF2ng tr\xF2n ng\u01B0\u1EE3c chi\u1EC1u kim \u0111\u1ED3ng h\u1ED3
+      xung quanh ng\u01B0\u1EDDi ch\u01A1i, g\xE2y s\xE1t th\u01B0\u01A1ng v\xE0
+      l\xE0m ch\u1EADm. Khi ng\u01B0\u1EDDi ch\u01A1i di chuy\u1EC3n, n\xF3 s\u1EBD
+      b\u1EAFn v\xE0o k\u1EBB \u0111\u1ECBch g\u1EA7n nh\u1EA5t\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16224958258937856
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} projectiles, -{2}% h\u1ED3i
+      chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 16224961123647488
+    m_Localized: "+{0} th\u1EDDi gian, +{1} projectiles, -{2}% h\u1ED3i chi\xEAu"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 17017266533367808
+    m_Localized: Wind Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17017271956602880
+    m_Localized: "T\u1EA1o l\u1ED1c xo\xE1y di chuy\u1EC3n xung quanh g\xE2y s\xE1t
+      th\u01B0\u01A1ng v\xE0 thu h\xFAt k\u1EBB th\xF9. Khi ng\u01B0\u1EDDi ch\u01A1i
+      di chuy\u1EC3n, l\u1ED1c xo\xE1y di chuy\u1EC3n t\u1EEB ph\xEDa sau ng\u01B0\u1EDDi
+      ch\u01A1i, t\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n n\u1EBFu ch\u1EA1m
+      v\xE0o\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17017796835999744
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} l\u1ED1c xo\xE1y"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  - m_Id: 17017810572345344
+    m_Localized: "+{0}% s\xE1t th\u01B0\u01A1ng, +{1} l\u1ED1c xo\xE1y"
+    m_Metadata:
+      m_Items:
+      - rid: 6381633823986679968
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381633823986679968
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 5799556411621376
+        - id: 5799552938737664
+        - id: 5699660144771072
+        - id: 5699591551123456
+        - id: 5492535229480960
+        - id: 5509260092178432
+        - id: 5507014914801664
+        - id: 5499633208197120
+        - id: 5511929326272512
+        - id: 5513937823268864
+        - id: 5516030600609792
+        - id: 5519004890628096
+        - id: 5521173802975232
+        - id: 5523513016647680
+        - id: 5526319459008512
+        - id: 5529111447797760
+        - id: 5531303458177024
+        - id: 5852244746764288
+        - id: 5852210085036032
+        - id: 6065414929186816
+        - id: 6065488853794816
+        - id: 6159867404681216
+        - id: 6159841332887552
+        - id: 6176662295478272
+        - id: 6176659816644608
+        - id: 11892449920483328
+        - id: 11892452877467648
+        - id: 11925151755337728
+        - id: 11925619919355904
+        - id: 12698264587796480
+        - id: 12698266286489600
+        - id: 12721671513636864
+        - id: 12721674063773696
+        - id: 12982118233997312
+        - id: 12982119890747392
+        - id: 13088473980665856
+        - id: 13088476534996992
+        - id: 14198504583135232
+        - id: 14198505195503616
+        - id: 14449333483405312
+        - id: 14449334078996480
+        - id: 15188014083145728
+        - id: 15188014691319808
+        - id: 15299575204347904
+        - id: 15299576760434688
+        - id: 15599231608094720
+        - id: 15599232216268800
+        - id: 16189551521628160
+        - id: 16189553031577600
+        - id: 16224958258937856
+        - id: 16224961123647488
+        - id: 17017796835999744
+        - id: 17017810572345344

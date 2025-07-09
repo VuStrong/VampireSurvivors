@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 54f0e7e633e5c6348b361f14fdcfbd1e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 361989734400
+    m_Localized: Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 903319191552
+    m_Localized: Power Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956314222592
+    m_Localized: Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984449613824
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040712007680
+    m_Localized: Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54237640065024
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54427218411520
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372871020838912
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372942227537920
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2941208062394368
+    m_Localized: Select skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2952489477668864
+    m_Localized: Combination skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4768748771016704
+    m_Localized: Combination skill list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5038865337614336
+    m_Localized: Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5055731409944576
+    m_Localized: Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110982364168192
+    m_Localized: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6466540283428864
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6468511396593664
+    m_Localized: Select character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6788534380068864
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6788583642169344
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6794248276213760
+    m_Localized: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6794300310749184
+    m_Localized: Character effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6849291289427968
+    m_Localized: Select Augment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6849463826317312
+    m_Localized: Select augment for each 10 level increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9731367093207040
+    m_Localized: Record time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9779694224605184
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19483637447983104
+    m_Localized: Damage display
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

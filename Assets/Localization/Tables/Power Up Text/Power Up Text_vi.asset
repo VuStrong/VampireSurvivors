@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Power Up Text_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 36db3705b3d77c8428caba02d6995135, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 6381634210840445018
+  m_TableData:
+  - m_Id: 205164707840
+    m_Localized: "S\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288052543488
+    m_Localized: "S\xE1t th\u01B0\u01A1ng k\u0129 n\u0103ng t\u0103ng: {value}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381634210840445018
+  - m_Id: 639040290816
+    m_Localized: "M\xE1u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 642160852992
+    m_Localized: "M\xE1u t\u1ED1i \u0111a t\u0103ng: {value}%"
+    m_Metadata:
+      m_Items:
+      - rid: 6381634210840445018
+  - m_Id: 80959924142080
+    m_Localized: "H\u1ED3i sinh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80963891953664
+    m_Localized: "H\u1ED3i sinh t\u1ED1i \u0111a {value} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 6381634210840445018
+  - m_Id: 99836221521920
+    m_Localized: "C\u1EA5p hi\u1EC7n t\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99838314479616
+    m_Localized: "C\u1EA5p ti\u1EBFp theo"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381634210840445018
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 288052543488
+        - id: 642160852992
+        - id: 80963891953664

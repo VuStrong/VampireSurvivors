@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 54f0e7e633e5c6348b361f14fdcfbd1e
+  m_Entries:
+  - m_Id: 361989734400
+    m_Key: Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 903319191552
+    m_Key: PowerUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956314222592
+    m_Key: Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984449613824
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040712007680
+    m_Key: Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54237640065024
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54427218411520
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372871020838912
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372942227537920
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2941208062394368
+    m_Key: SelectSkill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2952489477668864
+    m_Key: CombinationSkills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4768748771016704
+    m_Key: CombinationSkillList
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5038865337614336
+    m_Key: Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5055731409944576
+    m_Key: Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110982364168192
+    m_Key: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6466540283428864
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6468511396593664
+    m_Key: SelectCharacter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6788534380068864
+    m_Key: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6788583642169344
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6794248276213760
+    m_Key: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6794300310749184
+    m_Key: CharacterEffect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6849291289427968
+    m_Key: SelectAugment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6849463826317312
+    m_Key: SelectAugmentDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9731367093207040
+    m_Key: RecordTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9779694224605184
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19483637447983104
+    m_Key: DamageDisplay
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8943659189350695141
+  references:
+    version: 2
+    RefIds:
+    - rid: 8943659189350695141
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1743421243947

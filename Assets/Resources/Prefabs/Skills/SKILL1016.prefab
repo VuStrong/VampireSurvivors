@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5478945052367491264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3635248179482463970}
+  - component: {fileID: 8936852999386768036}
+  m_Layer: 0
+  m_Name: SKILL1016
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3635248179482463970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5478945052367491264}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8936852999386768036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5478945052367491264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 186e5450e326fbc479001d19c7ee3db5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: SKILL1016
+  image: {fileID: 21300000, guid: a9eadd5cc1885574caee738fcb5c4970, type: 3}
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 6064665994264576
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 6064669202907136
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedUpgradeDescriptions:
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 6065414929186816
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634157602144363
+    - name: 1
+      variable:
+        rid: 6381634157602144364
+    - name: 2
+      variable:
+        rid: 6381634157602144365
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 6065488853794816
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634157602144366
+    - name: 1
+      variable:
+        rid: 6381634157602144367
+  requiredSkills: []
+  projectileCount:
+    value: 2
+    upgrades: 0100000000000000
+    operation: 0
+  area:
+    value: 1
+    upgrades:
+    - 0
+    - 30
+    type: 0
+    operation: 0
+  damage:
+    value: 10
+    upgrades:
+    - 50
+    - 0
+    type: 0
+    operation: 0
+  duration:
+    value: 3
+    upgrades:
+    - 1
+    - 0
+    type: 1
+    operation: 0
+  cooldown:
+    value: 3
+    upgrades:
+    - 0
+    - 30
+    type: 0
+    operation: 1
+  iceRockPrefab: {fileID: 2361010242742343156, guid: 68cb792d85192144d88ebdcb7d5ddd60, type: 3}
+  slowAreaPrefab: {fileID: 2202237281337715928, guid: a5543bce376da05499802194b80df2ce, type: 3}
+  iceBulletPrefab: {fileID: -423085461733648282, guid: d4381f996acf98d428db751dfc0ee42c, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381634157602144363
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 6381634157602144364
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 50
+    - rid: 6381634157602144365
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 6381634157602144366
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30
+    - rid: 6381634157602144367
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30

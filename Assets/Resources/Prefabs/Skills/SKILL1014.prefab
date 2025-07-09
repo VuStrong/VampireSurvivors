@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8032632285791285846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4517207189124701652}
+  - component: {fileID: 9106743998586356786}
+  m_Layer: 0
+  m_Name: SKILL1014
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4517207189124701652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8032632285791285846}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9106743998586356786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8032632285791285846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d960cf798681a845a5de1d3720e5fce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: SKILL1014
+  image: {fileID: 21300000, guid: 88e3784d89978eb47af8e04827a2c620, type: 3}
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5799097831587840
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5799100335587328
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedUpgradeDescriptions:
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5799552938737664
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634134771237028
+    - name: 1
+      variable:
+        rid: 6381634134771237029
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5799556411621376
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634134771237030
+    - name: 1
+      variable:
+        rid: 6381634134771237031
+  requiredSkills: []
+  projectileCount:
+    value: 2
+    upgrades: 0100000000000000
+    operation: 0
+  area:
+    value: 1
+    upgrades:
+    - 0
+    - 30
+    type: 0
+    operation: 0
+  damage:
+    value: 10
+    upgrades:
+    - 30
+    - 0
+    type: 0
+    operation: 0
+  cooldown:
+    value: 1
+    upgrades:
+    - 0
+    - 30
+    type: 0
+    operation: 1
+  thunderPrefab: {fileID: -2709601493493802882, guid: f3367211f4a2e8741a8ee9e5569373f1, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381634134771237028
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 6381634134771237029
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30
+    - rid: 6381634134771237030
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30
+    - rid: 6381634134771237031
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 30

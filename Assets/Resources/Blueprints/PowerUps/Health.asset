@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c7a9b0755cc2f54d8a36e9076225bb5, type: 3}
+  m_Name: Health
+  m_EditorClassIdentifier: 
+  id: PowerUpHealth
+  sprite: {fileID: 21300000, guid: 93a64137c996f5341808c2132f118783, type: 3}
+  powerUpName:
+    m_TableReference:
+      m_TableCollectionName: GUID:36db3705b3d77c8428caba02d6995135
+    m_TableEntryReference:
+      m_KeyId: 639040290816
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  chance: 49
+  values:
+  - 20
+  - 25
+  - 30
+  powerUpDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:36db3705b3d77c8428caba02d6995135
+    m_TableEntryReference:
+      m_KeyId: 642160852992
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

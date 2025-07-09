@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3929636038025551690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9189078531762522719}
+  - component: {fileID: 5935287682665929213}
+  m_Layer: 0
+  m_Name: SKILL1012
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9189078531762522719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3929636038025551690}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5935287682665929213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3929636038025551690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80409e448e625641bf61ca37d65ea81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: SKILL1012
+  image: {fileID: 21300000, guid: 1406a5ec047817042bab5c5d0d24b078, type: 3}
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5531301709152256
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5531303458177024
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634120545468580
+  localizedUpgradeDescriptions:
+  - m_TableReference:
+      m_TableCollectionName: GUID:2763374612d827a4d9165f84772dd5e8
+    m_TableEntryReference:
+      m_KeyId: 5531303458177024
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: 0
+      variable:
+        rid: 6381634120545468581
+  requiredSkills: []
+  greed:
+    value: 200
+    upgrades:
+    - 200
+    type: 1
+    operation: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381634120545468580
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 200
+    - rid: 6381634120545468581
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 200

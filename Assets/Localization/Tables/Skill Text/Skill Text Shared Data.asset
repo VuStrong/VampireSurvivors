@@ -1,0 +1,452 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Skill Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Skill Text
+  m_TableCollectionNameGuidString: 2763374612d827a4d9165f84772dd5e8
+  m_Entries:
+  - m_Id: 5492157951836160
+    m_Key: SKILL1000_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5492535229480960
+    m_Key: SKILL1000_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5499531307581440
+    m_Key: SKILL1001_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5499633208197120
+    m_Key: SKILL1001_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5506973085007872
+    m_Key: SKILL1002_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5507014914801664
+    m_Key: SKILL1002_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5509254933184512
+    m_Key: SKILL1003_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5509260092178432
+    m_Key: SKILL1003_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5511921923325952
+    m_Key: SKILL1004_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5511929326272512
+    m_Key: SKILL1004_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5513935143108608
+    m_Key: SKILL1005_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5513937823268864
+    m_Key: SKILL1005_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5516027723317248
+    m_Key: SKILL1006_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5516030600609792
+    m_Key: SKILL1006_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5519002319519744
+    m_Key: SKILL1007_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5519004890628096
+    m_Key: SKILL1007_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5521171286392832
+    m_Key: SKILL1008_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5521173802975232
+    m_Key: SKILL1008_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5523511099850752
+    m_Key: SKILL1009_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5523513016647680
+    m_Key: SKILL1009_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5526316892094464
+    m_Key: SKILL1010_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5526319459008512
+    m_Key: SKILL1010_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5529109627469824
+    m_Key: SKILL1011_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5529111447797760
+    m_Key: SKILL1011_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531301709152256
+    m_Key: SKILL1012_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531303458177024
+    m_Key: SKILL1012_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5698365648338944
+    m_Key: SKILL1013_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5698452051001344
+    m_Key: SKILL1013_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5699591551123456
+    m_Key: SKILL1013_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5699660144771072
+    m_Key: SKILL1013_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5799097831587840
+    m_Key: SKILL1014_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5799100335587328
+    m_Key: SKILL1014_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5799552938737664
+    m_Key: SKILL1014_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5799556411621376
+    m_Key: SKILL1014_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851337812410368
+    m_Key: SKILL1015_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851339569823744
+    m_Key: SKILL1015_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5852210085036032
+    m_Key: SKILL1015_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5852244746764288
+    m_Key: SKILL1015_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6064665994264576
+    m_Key: SKILL1016_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6064669202907136
+    m_Key: SKILL1016_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6065414929186816
+    m_Key: SKILL1016_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6065488853794816
+    m_Key: SKILL1016_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159284090241024
+    m_Key: SKILL1017_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159285742796800
+    m_Key: SKILL1017_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159841332887552
+    m_Key: SKILL1017_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6159867404681216
+    m_Key: SKILL1017_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6175924265746432
+    m_Key: SKILL1018_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6175926073491456
+    m_Key: SKILL1018_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176659816644608
+    m_Key: SKILL1018_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6176662295478272
+    m_Key: SKILL1018_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891892526841856
+    m_Key: SKILL1019_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891896842780672
+    m_Key: SKILL1019_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11892449920483328
+    m_Key: SKILL1019_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11892452877467648
+    m_Key: SKILL1019_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11925145786843136
+    m_Key: SKILL1020_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11925148848685056
+    m_Key: SKILL1020_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11925151755337728
+    m_Key: SKILL1020_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11925619919355904
+    m_Key: SKILL1020_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12697292130025472
+    m_Key: SKILL1021_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12697293472202752
+    m_Key: SKILL1021_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12698264587796480
+    m_Key: SKILL1021_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12698266286489600
+    m_Key: SKILL1021_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721121325809664
+    m_Key: SKILL1022_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721122030452736
+    m_Key: SKILL1022_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721671513636864
+    m_Key: SKILL1022_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721674063773696
+    m_Key: SKILL1022_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12981237744730112
+    m_Key: SKILL1023_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12981238428401664
+    m_Key: SKILL1023_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12982118233997312
+    m_Key: SKILL1023_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12982119890747392
+    m_Key: SKILL1023_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13059435270569984
+    m_Key: SKILL1024_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13059436105236480
+    m_Key: SKILL1024_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13088473980665856
+    m_Key: SKILL1024_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13088476534996992
+    m_Key: SKILL1024_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14197989774262272
+    m_Key: SKILL1025_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14197990424379392
+    m_Key: SKILL1025_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14198504583135232
+    m_Key: SKILL1025_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14198505195503616
+    m_Key: SKILL1025_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14449081141493760
+    m_Key: SKILL1026_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14449081787416576
+    m_Key: SKILL1026_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14449333483405312
+    m_Key: SKILL1026_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14449334078996480
+    m_Key: SKILL1026_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15187411156140032
+    m_Key: SKILL1027_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15187413307817984
+    m_Key: SKILL1027_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15188014083145728
+    m_Key: SKILL1027_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15188014691319808
+    m_Key: SKILL1027_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299119942008832
+    m_Key: SKILL1028_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299121498095616
+    m_Key: SKILL1028_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299575204347904
+    m_Key: SKILL1028_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299576760434688
+    m_Key: SKILL1028_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15598693508251648
+    m_Key: SKILL1029_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15598694057705472
+    m_Key: SKILL1029_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15599231608094720
+    m_Key: SKILL1029_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15599232216268800
+    m_Key: SKILL1029_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16188479210061824
+    m_Key: SKILL1030_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16188480761954304
+    m_Key: SKILL1030_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16189551521628160
+    m_Key: SKILL1030_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16189553031577600
+    m_Key: SKILL1030_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16224394779361280
+    m_Key: SKILL1031_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16224397249806336
+    m_Key: SKILL1031_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16224958258937856
+    m_Key: SKILL1031_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16224961123647488
+    m_Key: SKILL1031_Upgrade3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17017266533367808
+    m_Key: SKILL1032_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17017271956602880
+    m_Key: SKILL1032_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17017796835999744
+    m_Key: SKILL1032_Upgrade2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17017810572345344
+    m_Key: SKILL1032_Upgrade3
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6381633779928399967
+  references:
+    version: 2
+    RefIds:
+    - rid: 6381633779928399967
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1743850376928
