@@ -1,7 +1,7 @@
 # Vampire Survivors
 A Vampire Survivors inspired game built in Unity just for fun.
 
-./demo.mp4
+https://github.com/user-attachments/assets/0696e4f0-141e-4661-b89c-71b5d142f467
 
 ## How to Play
 1. Download this project.
