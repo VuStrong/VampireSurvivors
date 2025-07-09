@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15a78b5043d85494f844dca7d6fe7fa2, type: 3}
   m_Name: Map1
   m_EditorClassIdentifier: 
-  mapName: Summoner Rift
-  description: "Qua 60s qu\xE1i nhi\u1EC1u vl :), v\xE0o test hi\u1EC7u \u1EE9ng"
+  mapName: Map 1
+  description: Just a map,  try to survive 3 minutes
   totalTime: 180
   timeBetweenWave: 30
   waves:
